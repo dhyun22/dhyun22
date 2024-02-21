@@ -38,6 +38,5 @@
 ##  :memo: Study Log
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhyun22&count_private=true&show_icons=true)
 </br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dahyun1016)](https://solved.ac/dahyun1016)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahyun1016)](https://solved.ac/dahyun1016/)
 </div>
