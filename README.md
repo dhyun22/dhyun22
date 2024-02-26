@@ -36,6 +36,6 @@
 
 
 ##  :memo: Study Log
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={dahyun1016}&theme=cold)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahyun1016)](https://solved.ac/dahyun1016/)
 </div>
