@@ -2,6 +2,7 @@
 <div>
  
 ##  ✉️ Notion site
+https://safe-adjustment-017.notion.site/Dahyun-Chung-bac9fafea281432d89f1962911ced955?pvs=4
 </br>
 
 
