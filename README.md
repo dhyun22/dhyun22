@@ -37,7 +37,5 @@ https://safe-adjustment-017.notion.site/Dahyun-Chung-bac9fafea281432d89f1962911c
 </br>
 
 
-##  :memo: Study Log
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahyun1016)](https://solved.ac/dahyun1016/)
 </div>
