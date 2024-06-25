@@ -8,8 +8,7 @@ https://safe-adjustment-017.notion.site/Dahyun-Chung-bac9fafea281432d89f1962911c
 
 
 ##  :sparkles: Interested in
-- BioNLP
-- Data Engineering
+- Computer Vision
 - Frontend
 </br>
 </br>
